@@ -8,5 +8,10 @@
   "profile": {
     "name": "typicode"
   },
-  "weather": {"coord":{"lon":4.4,"lat":51.22},"weather":[{"id":501,"main":"Rain","description":"matige regen","icon":"10n"},{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":285.14,"pressure":1001,"humidity":76,"temp_min":284.15,"temp_max":286.15},"visibility":10000,"wind":{"speed":6.7,"deg":250},"clouds":{"all":75},"dt":1543863300,"sys":{"type":1,"id":1221,"message":0.0094,"country":"BE","sunrise":1543822079,"sunset":1543851403},"id":2803138,"name":"Antwerp","cod":200}
+  "weather": {"coord":{"lon":4.4,"lat":51.22},"weather":[{"id":501,"main":"Rain","description":"matige regen","icon":"10n"},{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":285.14,"pressure":1001,"humidity":76,"temp_min":284.15,"temp_max":286.15},"visibility":10000,"wind":{"speed":6.7,"deg":250},"clouds":{"all":75},"dt":1543863300,"sys":{"type":1,"id":1221,"message":0.0094,"country":"BE","sunrise":1543822079,"sunset":1543851403},"id":2803138,"name":"Antwerp","cod":200},
+  "forecast": {
+    "city": "Antwerp",
+    "temp": 12
+  }
+
 }
