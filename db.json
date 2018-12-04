@@ -59,20 +59,5 @@
   "forecast": {
     "city": "Antwerp",
     "temp": 12
-  },
-  "todo": [
-    {
-      "id": 1,
-      "item": "kapper"
-    },
-    {
-      "id": 2,
-      "item": "garage"
-    },
-    {
-      "item": "bakker",
-      "id": 3
-    }
-  ],
-  "list": ["test","A"]
+  }
 }
